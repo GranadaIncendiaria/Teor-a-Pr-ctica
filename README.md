@@ -42,3 +42,5 @@
 - Texto 1956 'Autobiografía del General Franco' Escritor
 - Texto 1956 'Miseria y grandeza del PCE'
 - ['La prostitución tiene que ver con la igualdad, no con el sexo'](http://www.eldiario.es/zonacritica/prostitucion-ver-igualdad-sexo_6_235936431.html) - Beatriz Gimeno
+- Guía de lectura de Mao
+- [Cómo estudiar el marxismo](https://culturaproletaria.wordpress.com/2014/03/03/como-estudiar-el-marxismo/)
